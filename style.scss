@@ -110,7 +110,7 @@ img {
   max-width: 100%;
 }
 
-.header-img {
+img[src~="header-img"] {
   width: 100%;
 }
 
