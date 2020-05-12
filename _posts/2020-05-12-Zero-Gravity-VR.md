@@ -3,7 +3,7 @@ layout: post
 title: Zero Gravity VR Player Controller
 ---
 
-![Echo Arena Gif]({{ site.baseurl }}/images/echo_arena_goal.gif# header-img)
+![Echo Arena Gif]({{ site.baseurl }}/images/echo-arena-game-screenshot.jpg# header-img)
 
 -- http://www.twitch.tv/videos/162630473?t=3s --
 
