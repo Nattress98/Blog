@@ -15,5 +15,8 @@ When the grip is released the camera's current velocity needs to be maintained, 
 
 I decided not to complicate things with camera roll as it can cause lots of discomfort to people and in my opinion take away from immersion. I am not fully decided on what I'll use this for, however I am currently planning to test it with a weapons system I built in the past and see how that feels. I also, tried to keep this explanation simple as to allow you to develop and adapt it to you specific needs. It is not near a completed solution, however below I have attached my final versions of the code, which I will keep up to date throughout my project.
 
+<script src="http://gist-it.appspot.com/https://github.com/Nattress98/ZeroGravityVRPlayerController/blob/master/HandController.cs"></script>
+<script src="http://gist-it.appspot.com/https://github.com/Nattress98/ZeroGravityVRPlayerController/blob/master/PlayerController.cs"></script>
+
 ![Unity Inspector View]({{ site.baseurl }}/images/EchoDemo1.png)
 ![Unity Inspector View]({{ site.baseurl }}/images/EchoDemo2.png)
